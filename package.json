@@ -5,7 +5,7 @@
     "main": "bot.js",
     "author": "Your Name",
     "scripts": {
-        "start": "nodemon bot.js"
+        "start": "node bot.js"
     },
     "dependencies": {
         "crypto-price": "^0.0.6",
